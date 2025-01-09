@@ -11,7 +11,6 @@
 - Name:  Aisha Asaad
 - Email: aishaasaad212@gmail.com  
 - LinkedIn:([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aisha-asaad-000a35324/))  
-- GitHub: (https://github.com/aisha-asaad) 
 
 ---
 
@@ -34,8 +33,4 @@ As a passionate **Back-End Developer**, I specialize in building **scalable and 
 ### **E-Library Subscription System**  
 Developed a subscription-based payment system using **Paymob** integration. Built secure **APIs** with **Spring Boot** and **PostgreSQL** to handle recurring payments with robust error handling.
 
-### **Inventory Management System**  
-Created a system for tracking inventory using **Java**, **MySQL**, and **Docker**, featuring real-time data synchronization and intuitive API endpoints for seamless user experience.
-
----
 
