@@ -26,11 +26,6 @@ As a passionate **Back-End Developer**, I specialize in building **scalable and 
 - **Databases:** MySQL, PostgreSQL  
 - **Key Areas:** RESTful APIs
 
----
 
-## 📚 **Projects**
-
-### **E-Library Subscription System**  
-Developed a subscription-based payment system using **Paymob** integration. Built secure **APIs** with **Spring Boot** and **PostgreSQL** to handle recurring payments with robust error handling.
 
 
